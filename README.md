@@ -1,5 +1,6 @@
 # Javascript bookmarklets
-## Youtube ad-skipper
+
+### Youtube ad-skipper
 
 This is a piece of javascript code that can be run in the browser to skip ads on youtube.
 
